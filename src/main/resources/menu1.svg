@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="750.6812 -1672.9412 2903.6772 1701.7874" width="2903.6772" height="1701.7874">
+  <defs/>
+  <g id="Canvas_1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_53">
+        <rect x="751.1812" y="-1672.4412" width="2902.6772" height="1700.7874" fill="#c0c0ff"/>
+        <rect x="751.1812" y="-1672.4412" width="2902.6772" height="1700.7874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_54">
+        <path d="M 1167.4706 -1474.016 L 3228.0025 -1474.016 C 3410.9468 -1474.016 3559.2525 -1325.7103 3559.2525 -1142.766 L 3559.2525 -1054.0847 C 3559.2525 -871.1404 3410.9468 -722.8347 3228.0025 -722.8347 L 1167.4706 -722.8347 C 984.5263 -722.8347 836.2206 -871.1404 836.2206 -1054.0847 L 836.2206 -1142.766 C 836.2206 -1325.7103 984.5263 -1474.016 1167.4706 -1474.016 Z" fill="#ccc"/>
+        <path d="M 1167.4706 -1474.016 L 3228.0025 -1474.016 C 3410.9468 -1474.016 3559.2525 -1325.7103 3559.2525 -1142.766 L 3559.2525 -1054.0847 C 3559.2525 -871.1404 3410.9468 -722.8347 3228.0025 -722.8347 L 1167.4706 -722.8347 C 984.5263 -722.8347 836.2206 -871.1404 836.2206 -1054.0847 L 836.2206 -1142.766 C 836.2206 -1325.7103 984.5263 -1474.016 1167.4706 -1474.016 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
